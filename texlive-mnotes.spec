@@ -6,7 +6,7 @@
 # catalog-version 0.6
 Name:		texlive-mnotes
 Version:	0.6
-Release:	3
+Release:	4
 Summary:	Margin annotation for collaborative writing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mnotes
