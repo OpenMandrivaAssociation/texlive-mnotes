@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 0.6
 Name:		texlive-mnotes
-Version:	0.6
-Release:	9
+Version:	0.8
+Release:	1
 Summary:	Margin annotation for collaborative writing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mnotes
