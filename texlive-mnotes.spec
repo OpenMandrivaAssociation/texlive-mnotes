@@ -1,6 +1,6 @@
 Name:		texlive-mnotes
 Version:	63406
-Release:	1
+Release:	2
 Summary:	Margin annotation for collaborative writing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mnotes
