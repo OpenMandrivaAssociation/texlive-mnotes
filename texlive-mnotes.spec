@@ -3,7 +3,7 @@ Version:	63406
 Release:	2
 Summary:	Margin annotation for collaborative writing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mnotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mnotes
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mnotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mnotes.doc.r%{version}.tar.xz
